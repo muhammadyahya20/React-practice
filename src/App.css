@@ -1,9 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 #heading {
-    margin: 20px auto;
+    margin: auto auto;
 }
 
 #button {
-    margin: 20px auto;
+    margin: auto auto;
     background-color: rgb(0, 110, 255);
     height: 40px;
     width: 200px;
@@ -16,7 +21,7 @@
     justify-content: space-between;
     flex-direction: column;
     margin: 40vh auto;
-    gap: 10px;
+    gap: 20px;
 }
 
 body{

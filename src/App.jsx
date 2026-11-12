@@ -1,12 +1,16 @@
-import { useState } from 'react'
-import Counter from './Components/Counter'
-import './App.css'
+import PhoneProvider from "./PhoneProvider"
+import PhoneCounter from "./PhoneCounter"
+import Phonelist from "./PhoneList"
 
 function App() {
 
   return (
     <>
-      <Counter/>
+    <PhoneProvider>
+      <Phonelist/>
+      <PhoneCounter/>
+    </PhoneProvider>
+      
     </>
   )
 }
