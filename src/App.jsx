@@ -1,6 +1,6 @@
-import PhoneProvider from "./PhoneProvider"
+import PhoneProvider from "./Components/PhoneProvider"
 import PhoneCounter from "./PhoneCounter"
-import Phonelist from "./PhoneList"
+import Phonelist from "./Components/PhoneList"
 
 function App() {
 
