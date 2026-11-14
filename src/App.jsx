@@ -1,13 +1,10 @@
-import Wallet from "./UseReducerCounter"
-
+import MovingDot from "./Components/MovingDot"
 
 function App() {
 
-
-
   return (
     <>
-      <Wallet/>
+      
     </>
   )
 }
