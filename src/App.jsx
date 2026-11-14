@@ -1,11 +1,11 @@
-import MovingDot from "./Components/MovingDot"
+
+import Homepage from "./Components/Login/Homepage"
 
 function App() {
 
+
   return (
-    <>
-      
-    </>
+    <Homepage/>
   )
 }
 
