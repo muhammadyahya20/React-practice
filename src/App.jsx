@@ -1,4 +1,4 @@
-import ProductList from "./Components/Products-Map-Method"
+import ProductList from "./Components/Map-Filter-Sort-Method"
 
 function App() {
 
