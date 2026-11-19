@@ -1,11 +1,13 @@
-import ProductList from "./Components/Map-Filter-Sort-Method"
+
+import Cart from "./Cart-useReducer"
+
 
 function App() {
 
 
   return (
     <>
-    <ProductList/>
+    <Cart/>
     </>
   )
 }
