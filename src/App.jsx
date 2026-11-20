@@ -1,13 +1,10 @@
 
-import Cart from "./Cart-useReducer"
-
 
 function App() {
 
-
   return (
     <>
-    <Cart/>
+    
     </>
   )
 }
